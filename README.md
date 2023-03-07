@@ -1,2 +1,3 @@
 # roomatic_spoooon
-socket.io rooms
+#socket.io rooms
+#created with vite@latest
